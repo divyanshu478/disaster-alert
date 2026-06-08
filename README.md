@@ -42,6 +42,22 @@ This repository is built to support emergency monitoring systems, crisis respons
 
 ---
 
+## Visual Highlights
+
+### Target distribution and tweet composition
+![Target distribution](outputs/eda/target_distribution.png)
+
+### Text length and structural patterns
+![Text length distribution](outputs/eda/text_length_distribution.png)
+
+### Keyword signals for accurate classification
+![Top keywords](outputs/eda/top_keywords.png)
+
+### Model comparison across classifiers
+![Model comparison](outputs/model_comparison.png)
+
+---
+
 ## Quick Start
 
 ### 1. Clone the repository
